@@ -1,0 +1,60 @@
+body{
+  background: black;
+}
+
+#shell{
+  height: 600px;
+  width: 950px;
+  margin: 0 auto;
+  margin-top: 10%;
+  background:   url("https://s8.hostingkartinok.com/uploads/images/2017/03/54d5f6fe75014cb9c8fb6ade5527e0a8.png");/*http://fonday.ru/images/tmp/9/3/original/9327u4izkY34z0A8LAAo5PRw5CE9R9JzeL.jpg--original*/
+  background-size: 100% 100%;
+}
+#text{
+  position: relative;
+  top: 100px;
+  left: 125px;
+  height: 320px;
+  width: 500px;  
+  margin: 0 auto;
+}
+#text #quote{
+  color: #ff6c1c;
+  font-size: 39px;
+  font-style: italic;
+  font-weight: bolder;
+  text-align: center;
+}
+#text #autor{
+  float: right;
+  margin-right: 30px;
+  color: #ff6c1c;
+}
+#button{
+  position: relative;
+  top: -120px;
+  height: 200px;
+  width: 200px;
+  margin: 0;
+  border: none;
+  border-radius: 50%;
+  background: #c23813 url("http://www.clipartkid.com/images/452/back-gallery-for-string-of-pearls-clip-art-FkptoR-clipart.png") center no-repeat;  /*http://www.clipartkid.com/images/452/back-gallery-for-string-of-pearls-clip-art-FkptoR-clipart.png--source*/
+  background-size: 100% 100%;
+  color: #78422c;
+  font-size: 20px;
+  font-style: italic;
+  font-weight: bolder;
+  outline: none;
+}
+#tweet{
+  display: inline-block;
+  position: relative;
+  height: 70px;
+  width: 70px;
+  top: 70px;
+  left: 650px;
+  background:  url("https://s8.hostingkartinok.com/uploads/images/2017/03/784539de1212594198226afdc4f4a4fd.png") no-repeat;/*http://rylik.ru/uploads/posts/2010-07/1279375019_ul8ijqeokczrmbb.jpeg--original*/
+  background-size: 100% 100%;
+  text-align: center;
+  vertical-align: middle;
+}
